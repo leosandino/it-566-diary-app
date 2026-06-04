@@ -1,0 +1,15 @@
+# Python build/cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local diary storage (do not push personal diaries to GitHub)
+diary.txt
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
