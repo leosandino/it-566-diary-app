@@ -1,7 +1,7 @@
 """
 Author:      Leonardo Andres Sandino Acosta
 Project:     Project 2: Diary Entry Application
-Date:        June 4, 2026
+Due Date:    June 19, 2026
 Class:       IT-566: Computer Scripting Techniques
 Description: Lets users create dated diary entries saved as separate lines
              in a text file, and allows filtering and printing by date.
