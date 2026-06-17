@@ -254,7 +254,7 @@ def main():
         
         if choice == "1":
             create_entry_flow()
-        elif choice == choice == "2":
+        elif choice == "2":
             filter_entries_flow()
         elif choice == "3":
             view_all_entries_flow()
